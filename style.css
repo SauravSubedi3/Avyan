@@ -20,7 +20,8 @@
 }
 
 #logo img {
-    height: 80px;
+    height: 70px;
+    width: 170%;
     /* margin: 3px 5px; */
     /* border-radius: 30px; */
   }
@@ -441,8 +442,8 @@ header .navbar ul li a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 80vh;
-    padding: 10px ;
+    height: 100vh;
+    padding: 5px ;
 } 
 
 .ceo h3{
@@ -457,7 +458,7 @@ header .navbar ul li a:hover{
     
 }
 .ceo_box{
-    height: 80vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
